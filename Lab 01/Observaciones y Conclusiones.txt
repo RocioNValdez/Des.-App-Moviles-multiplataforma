@@ -1,0 +1,5 @@
+
+ - Creamos una app web  con el nombre lab07.
+ - Entendimos el funcionamiento de React JS.
+ - Desarrollar aplicaciones web enfocadas a componentes.
+ - Implementamos correcta de Next-Gen Javascript. 

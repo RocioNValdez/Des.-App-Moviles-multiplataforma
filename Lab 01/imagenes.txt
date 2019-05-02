@@ -1,0 +1,9 @@
+
+
+
+- Img1
+      Creamos la app movil , iniciamos el repositorio. 
+- Img2
+      Despues de crearla la ejecutamos en el puerto 3000.
+- Img3
+      Tenemos la ejecucion de la app creada.
