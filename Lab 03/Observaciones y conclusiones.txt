@@ -1,0 +1,8 @@
+ 
+- Instalamos el react native, python sdk.
+-Creamos una app, en la cual hicimso el uso de imagenes.
+- Intalamos chocolatey.
+- Configuramos todos los SDKs de Android para poder continuar.
+- Al igual que en los proyectos de android, debemos conectar el 
+  dispocitivo a la pc y ejecutarla.
+- En React Native, usamos el mismo principio de React JS pero sin elementos HTML.

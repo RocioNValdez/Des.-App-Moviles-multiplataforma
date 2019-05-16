@@ -1,0 +1,23 @@
+Img 1:Instalamos Chocolatey, que es un asistente para la configuracion amigable en windows.
+	
+Img 2:Instalamos python 2 con jdk.
+
+Img 3:Instalamos en react native.
+ 
+Img 4:Direccion de la variable de entorno  para el android.
+
+Img 5:Completando la instalacion del react native.
+
+Img 6:Ubicamos nuestra App en el react native.
+
+Img 7: Ejecutamos la app.
+
+Img 8:Aqui mostramos que esta siendo instalada en el celular. 
+
+Img 9:El resultado es este, ya esta ejecutada nuestra app.
+
+Img 10: La ubicacion de nuestra carpeta. 
+
+Img 11: Cambiamos el texto de la interfaz,los colores, agregamos una imagen en png.
+
+Img 12: Y aqui el nuevo resultado de la interfaz de la app.
