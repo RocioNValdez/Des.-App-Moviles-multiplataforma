@@ -1,0 +1,15 @@
+Foto---Aqui en el chat podemos tomar , una foto.
+Consola---Tomamos dos fotos con la camara y se pueden ver en la consola.
+Permiso de Camara---Para acceder a la camara el celular te pide permisos.
+Camara en accion---Usando la camara.
+
+------------------------------------------------------------------------------------------------
+ - implementamos el uso del componente camera, en donde accedimos a los permisos de 
+   camara del dispositivo, y tomamos capturas, y esto lo almacenabamos en  una carpeta.
+ - Modificamos los permisos, para usar la camara, el mensaje, titulo y los botones.
+ - Agregamos el componente camara a nuestro proyecto, para ello instalamos las dependencias
+   , y configuramos el archivo graddle de android para acceder a la camara.
+ - Agregamos una vista de la camara al enrutador de nuestro proyecto, para lo que agregamos
+   un simple boton para tomar la foto.
+- Almacenamos nuestra foto o imagen haciendo un post con axios, y lo guardamos en la
+  carpeta upload

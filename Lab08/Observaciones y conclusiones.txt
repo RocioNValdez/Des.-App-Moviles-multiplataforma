@@ -1,0 +1,15 @@
+
+-Chat---Nos conectamos con cualquier otro celular, en el cual se ejecuto la app, 
+	mandamos sms, y se muestran en tiempo real.
+-Agregado---Los sms mandados son los que se registran en la consola.
+-Inicio
+
+-------------------------------------------------------------------------------------------------------
+- Implementamos un chat utilzando Socket IO, ya que para el juego que vamos a desarrollar
+  vamos a poder conversar entre nosotros mediante la aplicacion, como tambien para 
+  conexiones en tiempo real con los jugadores usando Socket IO.
+- Importamos frameworks para el uso de iconos, como tambien textInput ya sea Fumi u otros, 
+  para que nuestra aplicacion se vea mucho mas agradable.
+- Usamos axios para hacer peticiones con nuestra API, para el logeo, como tambien el
+  registro de usuarios.
+- Ejecutamos las aplicaciones traves de la misma red, y podiamos conversar en tiempo real.

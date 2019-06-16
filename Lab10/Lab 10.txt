@@ -1,0 +1,18 @@
+Menu de chat---Para compartir o mandar nuestra ubicaqcion a traves del chat.
+Manu map---Cuando vemos nuestra ubicacion , tenemos un poequeño menu en nuestra 
+	app,uno con la opcion de volcer y el otro de, compartir nuestra ubicacion.
+Permiso de ubicacion---Al querer saber y compartir nuestra ubicacion, esta nos pide permisos.
+Map cerca---Podemos acercar el mapa.
+Map alejado---Podemos alejar el mapa.
+
+-----------------------------------------------------------------------------------------------
+
+ - Al abrir nuestra ubicacion o mapa , la app pide permisos para acceder a nuestra localizacion.
+ - Tuve que ejecutar la aplicacion 3 veces para que mi celular pueda hacer cargar el mapa, ya
+   que al comienzo solo, salia una pantalla en blanco.
+ - Agregamos el componente Mapa, creamos una vista, para mostrar todo el mapa, previamente
+   importamos MapView para acceder a este servicio.
+ - Agregamos FloatingAction, para colocar botones flotantes en el mapa, ya que el mapa
+   no permite regresa a la vista anterior de forma explicita.
+ - Obtuvimos permisos de GeoLocalizacion, a lo que accedimos a 2 para el funcionamiento
+   usamos Access_Fine_Location, y access_Course_Location.

@@ -1,0 +1,22 @@
+
+IMG1---El usuario que fue creado
+IMG2---Los datos del usuario creado.
+IniciarSesion---Interfaz de inicio.
+Intento 1---Solo es una pantalla sin ningun chat, ni poder mandar sms.
+Prueba de registrarse---Interfaz , para ingresar nuestros datos
+                        , como nombre, correo y contraseña.
+
+----------------------------------------------------------------------------------------
+
+- Desarrollamos una pantalla de carga, y lo declaramos como pantalla inicial, ya que 
+  una vez carguen los recursos de la aplicacion, rediriga a la pantalla de inicio, en esta
+  pantalla podemos colocar imagenes y background.
+- Insertamos iconos en los TextInputs o en este caso Fumi, como tambien botones iconos
+  dentro de este y le dimos una funcionalidad, en este caso para ver o no la contraseña
+- Creamos una aplicacion en el que hicimos uso de navigation.
+- Filtramos el logeo de un usuario, ya que si accede puede usar menus laterales, de lo
+  contrario solo el menu de navegacion.
+- En este laboratorio practico tocamos lo que son diseños y formularios, como tambien 
+  conectar nuestro login con una API.
+- Usamos axios para hacer peticiones con nuestra API, para el logeo, como tambien
+  el registro de usuarios

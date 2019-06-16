@@ -1,0 +1,23 @@
+
+Imagenes
+- IMG1---Tenemos nuestro primer componente.
+- IMG2---Agregamos a nuestro componente, tres tipos de contadores.
+- IMG3---Tenemos valores , en cero por cada contador.
+- IMG4---Por cada contador agregamos dos botones para aumentar y disminuir.
+---------------------------------------------------------------------------------------------------
+Tarea
+-Sumar
+-Restar
+-Mutiplicar
+-Dividir
+Creamos una calculadora, en la cual tenemos 4 operaciones, los valores fueron ingresados a
+traves de codigo.
+---------------------------------------------------------------------------------------------------
+- Segun el ciclo de vida del componente , realizamos ejercicios como modificar un
+  contador y volver como estaba en un comienzo al cambiar el volver, y la creacion
+  de la calculadora.
+- En el react.js de aplicaciones moviles todo se basa en componentes y la sintaxis
+  no varia.
+- En react.js cambia la parte de la interfaz , utilizamos etiquetas como en html.
+- Vimos el ciclo de vida de este componente, al cargar, actualizarse y cuando termina.
+

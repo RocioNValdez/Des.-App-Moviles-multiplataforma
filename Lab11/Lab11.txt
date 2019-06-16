@@ -1,0 +1,22 @@
+﻿Inicio---Tenemos diferentes opciones.
+Menu Lateral---Al jalar en la pantalla de izquierda a derecha nos sale un menu, casi igual a las opciones de inicio.
+Editar Perfil---Seleccionamos editar perfil y podemos cambiar nuestro correo.
+EditarPerfil2---Podemos cambiar mas datos.
+Herramientas  y Lista---Solo nos muestra una pantalla en blanco.
+
+
+------------------------------------------------------------------------------------
+
+Mapas.-
+
+ - Hicimos uso de estilos y componentes de UI a nuestra aplicacion.
+ - Al usar la red de tecsup, tenemos que estar cambiando constantemente la IP
+ - En la vista de Perfil de usuario, usamos md5, creamos una funcion en donde nos retornaba
+   la imagen de un email que le enviabamos, usabamamos el email del usuario para hacer este
+   procedimiento, asi el correo enviado no tenga imagen, el avatar se crea de todas maneras.
+ - Agregamos 4 vistas, Perfil, Editar Perfil, Lista y Configuraciones, pero en este lab, implementamos
+   solo las 2 primeras.
+ - Creamos el componente IconBox, para luego llamarlo en nuestra vista de Home, ahi añadimos estilos y 
+   simulamos un boton, en la vista solamente importabamos, incovabamos y modificamos sus parametros.
+
+
